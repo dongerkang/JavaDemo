@@ -1,0 +1,722 @@
+{
+  "riskName": "国内水路、陆路货物运输保险",
+  "debateType": "0",
+  "mainDeductibleCondition": "",
+  "pnpFlag": false,
+  "endDate": "2023-04-06",
+  "planName": "001-01",
+  "language": "C",
+  "policyNo": "20202A32010123000091",
+  "signDate": "2023-02-21",
+  "type": "1",
+  "facPlanId": "442710467",
+  "productName": "国内水路、陆路货物运输保险",
+  "policyState": "2",
+  "profitRspList": [],
+  "addlDeductibleCondition": "",
+  "state": "1",
+  "tagMap": {
+    "shareholderFlag": "0",
+    "policySortName": "普通",
+    "isVIPFlag": "0",
+    "specialChannel": "0",
+    "specialChannelName": "否",
+    "bancassuranceBus": "0",
+    "policySort": "2",
+    "agricultureFlag": "0"
+  },
+  "arbitBoardName": "",
+  "thirdPartRsp": {
+    "thirdBusiness": false,
+    "recordCode": ""
+  },
+  "creditRsp": {
+    "buyerInfoList": [],
+    "counterGuaranteeRspList": []
+  },
+  "indemnifyWaitPeriod": 0,
+  "orderNo": "DPO2023020000005180",
+  "productId": "01E8680E8C5445F284091C1EA76853DD",
+  "kindExpression": "",
+  "policyStateName": "期内有效",
+  "renewalPolicyNo": "",
+  "logisticsIncome": 0.00,
+  "riskCode": "0202",
+  "payInfoRspList": [
+    {
+      "mode": "1",
+      "modeName": "现金缴费",
+      "payAmount": 42959.53,
+      "currencyName": "人民币",
+      "premiumSettlementInfo": "",
+      "periodCount": 1,
+      "payerId": "",
+      "currency": "CNY",
+      "payPlanRspList": [
+        {
+          "period": 1,
+          "payAmount": 42959.53,
+          "payEndDate": "2023-04-05",
+          "currency": "CNY",
+          "realPayAmount": 0.00,
+          "tax": 2431.67,
+          "delinquentFee": 42959.53,
+          "payStartDate": "2023-02-20"
+        }
+      ],
+      "frequency": "0"
+    }
+  ],
+  "mergeFlag": false,
+  "proposalNo": "10202A32010123000091",
+  "judicialScope": "中华人民共和国管辖(港澳台除外)",
+  "underwriteRsp": {
+    "flag": 0,
+    "approveCode": "200000077",
+    "underwriteId": "",
+    "underwriteName": "郭锐",
+    "underwriteCode": "200000077",
+    "approveName": "郭锐",
+    "underwriteTime": "2023-02-20T15:24:00",
+    "uwState": 2,
+    "reinsflag": "1"
+  },
+  "unionHolderRspList": [],
+  "subProductName": "国内水路、陆路货物运输保险",
+  "debateTypeName": "其他",
+  "subProductId": "092451A61AD04FFC8BF8E94636936EBE",
+  "policyPlanRspList": [
+    {
+      "itemList": [
+        {
+          "state": 1,
+          "serialNo": 1
+        }
+      ],
+      "state": 1,
+      "liabilityRspList": [
+        {
+          "deductibleFlag": false,
+          "kindCode": "TK000450",
+          "expectedAnnualPremium": 0.00,
+          "endDate": "2023-04-06",
+          "benchmarkPremium": 0.00,
+          "discount": 0E-8,
+          "shortFlag": "3",
+          "premium": 34545.43,
+          "rate": 0.0100000000000,
+          "carFlag": 0,
+          "mainRiskFlag": 2,
+          "kindName": "附加盗窃、抢劫保险条款",
+          "unitPremium": 0.00,
+          "expectedInsuredSales": 0.00,
+          "currency": "CNY",
+          "state": 1,
+          "taxFee": 1955.40,
+          "kindId": "68E1F250F1784263BAE6153A5EAF77C0",
+          "endMinute": 0,
+          "liabilityName": "盗窃、抢劫保险",
+          "shortRate": 1.0000000000000,
+          "amount": 3454543.00,
+          "taxFlag": "1",
+          "quantity": 0,
+          "oldKindName": "公路货物运输保险附加盗窃、抢劫保险",
+          "insuredSeatsNo": 0,
+          "serialNo": 1,
+          "calculateFlag": false,
+          "endHour": 24,
+          "taxRate": 0.06000000,
+          "shareLiabilityFlag": false,
+          "basePremium": 0.00,
+          "oldKindCode": "101",
+          "startHour": 0,
+          "liabilityCode": "ZR000196",
+          "claimLimit": [],
+          "shareDeductibleFlag": false,
+          "unitAmount": 0.00,
+          "liabilityId": "",
+          "policyLiabilityLimit": 0.00,
+          "deductibleInfoRspList": [
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "CNY",
+              "category": "01"
+            },
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "",
+              "category": "20"
+            }
+          ],
+          "startMinute": 0,
+          "settlePremiumFlag": true,
+          "startDate": "2023-02-21"
+        }
+      ],
+      "allCargoItemFlag": 0,
+      "serialNo": 1
+    },
+    {
+      "itemList": [
+        {
+          "state": 1,
+          "serialNo": 2
+        }
+      ],
+      "state": 1,
+      "liabilityRspList": [
+        {
+          "deductibleFlag": false,
+          "kindCode": "TK000433",
+          "expectedAnnualPremium": 0.00,
+          "endDate": "2023-04-06",
+          "benchmarkPremium": 0.00,
+          "discount": 1.00000000,
+          "shortFlag": "3",
+          "premium": 546.56,
+          "rate": 0.0100000000000,
+          "carFlag": 0,
+          "mainRiskFlag": 1,
+          "kindName": "国内水路、陆路货物运输保险条款",
+          "unitPremium": 0.00,
+          "expectedInsuredSales": 0.00,
+          "currency": "CNY",
+          "state": 1,
+          "taxFee": 30.94,
+          "kindId": "988FEDD124A84A25A922563F4913E2F9",
+          "endMinute": 0,
+          "liabilityName": "基本险",
+          "shortRate": 1.0000000000000,
+          "amount": 54656.00,
+          "taxFlag": "1",
+          "quantity": 0,
+          "oldKindName": "国内水路、陆路货物运输保险条款---基本险",
+          "insuredSeatsNo": 0,
+          "serialNo": 1,
+          "calculateFlag": true,
+          "endHour": 24,
+          "taxRate": 0.06000000,
+          "shareLiabilityFlag": false,
+          "basePremium": 0.00,
+          "oldKindCode": "002",
+          "startHour": 0,
+          "liabilityCode": "ZR000175",
+          "claimLimit": [],
+          "shareDeductibleFlag": false,
+          "unitAmount": 0.00,
+          "liabilityId": "",
+          "policyLiabilityLimit": 0.00,
+          "deductibleInfoRspList": [
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "CNY",
+              "category": "01"
+            },
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "CNY",
+              "category": "02"
+            },
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "",
+              "category": "20"
+            }
+          ],
+          "startMinute": 0,
+          "settlePremiumFlag": true,
+          "startDate": "2023-02-21"
+        }
+      ],
+      "allCargoItemFlag": 0,
+      "serialNo": 2
+    },
+    {
+      "itemList": [
+        {
+          "state": 1,
+          "serialNo": 3
+        }
+      ],
+      "state": 1,
+      "liabilityRspList": [
+        {
+          "deductibleFlag": false,
+          "kindCode": "TK000435",
+          "expectedAnnualPremium": 0.00,
+          "endDate": "2023-04-06",
+          "benchmarkPremium": 0.00,
+          "discount": 1.00000000,
+          "shortFlag": "3",
+          "premium": 7867.54,
+          "rate": 0.0100000000000,
+          "carFlag": 0,
+          "mainRiskFlag": 1,
+          "kindName": "邮包险条款",
+          "unitPremium": 0.00,
+          "expectedInsuredSales": 0.00,
+          "currency": "CNY",
+          "state": 1,
+          "taxFee": 445.33,
+          "kindId": "4A4509675CC74A9F8D543B88C5BB9B56",
+          "endMinute": 0,
+          "liabilityName": "邮包一切险",
+          "shortRate": 1.0000000000000,
+          "amount": 786754.00,
+          "taxFlag": "1",
+          "quantity": 0,
+          "oldKindName": "邮包一切险",
+          "insuredSeatsNo": 0,
+          "serialNo": 1,
+          "calculateFlag": true,
+          "endHour": 24,
+          "taxRate": 0.06000000,
+          "shareLiabilityFlag": false,
+          "basePremium": 0.00,
+          "oldKindCode": "006",
+          "startHour": 0,
+          "liabilityCode": "ZR000181",
+          "claimLimit": [],
+          "shareDeductibleFlag": false,
+          "unitAmount": 0.00,
+          "liabilityId": "",
+          "policyLiabilityLimit": 0.00,
+          "deductibleInfoRspList": [
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "CNY",
+              "category": "01"
+            },
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "CNY",
+              "category": "02"
+            },
+            {
+              "deductibleRate": 0E-8,
+              "deductibleAmount": 0.00,
+              "days": 0,
+              "currency": "",
+              "category": "20"
+            }
+          ],
+          "startMinute": 0,
+          "settlePremiumFlag": true,
+          "startDate": "2023-02-21"
+        }
+      ],
+      "allCargoItemFlag": 0,
+      "serialNo": 3
+    }
+  ],
+  "attachmentRspList": [],
+  "coinsFlag": "0",
+  "operateDate": "2023-02-20",
+  "startDate": "2023-02-21",
+  "facPlanCode": "442710467",
+  "contractNo": "",
+  "insuredRspList": [
+    {
+      "holderRelationName": "本人",
+      "beneficiaryRspList": [],
+      "person": {
+        "country": "CHN",
+        "degreeCode": "",
+        "nation": "",
+        "townCode": "",
+        "companyName": "",
+        "postalCode": "",
+        "identifyValidFlag": 1,
+        "yearlySalary": 0.00,
+        "monthlySalary": 0.00,
+        "sexName": "男",
+        "identifyValidFlagName": "是",
+        "fax": "",
+        "socialInsuranceNo": "",
+        "socialInsuranceType": "",
+        "occupationCode1": "A12",
+        "occupationCode2": "A1203",
+        "telephone": "132435466",
+        "occupationCode3": "A1203001",
+        "certificateNo": "362301199908020034",
+        "residentCity": "",
+        "mobilePhone": "132435466",
+        "name": "0202险种测试",
+        "countryName": "中国",
+        "position": "",
+        "provinceName": "浙江省",
+        "householdType": "",
+        "certificateType": "01",
+        "schoolCode": "",
+        "birthday": "1999-08-02",
+        "cityCode": "330300",
+        "educationCode": "",
+        "creditLevel": "",
+        "cityName": "温州市",
+        "marriage": "0",
+        "email": "",
+        "countyName": "鹿城区",
+        "antiMoneyLaunderingLevel": {
+          "customerRiskLevel": 4,
+          "customerRiskLevelName": "低",
+          "classifyCriterionList": [
+            "2",
+            "1"
+          ]
+        },
+        "provinceCode": "330000",
+        "sex": "1",
+        "certificateTypeName": "身份证",
+        "countyCode": "330302",
+        "companyAddress": "",
+        "occupationName3": "校对员",
+        "detailAddress": "哭成去",
+        "occupationName2": "校对员",
+        "endTime": "9999-01-01",
+        "occupationName1": "新闻出版广告业人员"
+      },
+      "customerId": "2a968a169f1e48b89f5a10151a481c79",
+      "holderRelation": "00",
+      "type": 1,
+      "serialNo": 2
+    }
+  ],
+  "className": "货运保险",
+  "remark": "",
+  "additionalCostRate": 0E-8,
+  "cargoRsp": {
+    "wayName": "沿海运输",
+    "middleSiteDetail": "22",
+    "trainNo": "",
+    "inAndOutLimitAmount": 0.00,
+    "billNum": 0.00,
+    "content": "",
+    "domesticLimitAmount": 0.00,
+    "carryBillNo": "1111",
+    "carrierName": "",
+    "limitAmountContent": "",
+    "checkAgentCode": "",
+    "excludedItem": "",
+    "endSiteDetail": "333",
+    "endSiteCode": "ALLR3_A",
+    "transRange": "",
+    "plusRate": 0E-8,
+    "startSiteCode": "ALLR3_A",
+    "billNo": "",
+    "middleSiteName": "中国",
+    "wayListName": [],
+    "isExclude": "0",
+    "targetContent": "",
+    "ladingBillNo": "",
+    "bargainNo": "",
+    "claimSite": "",
+    "cargoInfoRspList": [
+      {
+        "quantity": 1.00000000,
+        "packageTypeName": "盘卷",
+        "quantityUnitName": "羽",
+        "itemDetail": "020",
+        "quantityUnit": "16",
+        "categoryName": "食品类、饮料酒水类、烟草制品",
+        "packageType": "015",
+        "serialNo": 1,
+        "itemContext": "",
+        "itemDetailName": "加工后的蔬菜、水果的制品、罐头",
+        "name": "111",
+        "category": "04",
+        "mark": "1"
+      },
+      {
+        "quantity": 2.00000000,
+        "packageTypeName": "塑料袋",
+        "quantityUnitName": "头",
+        "itemDetail": "088",
+        "quantityUnit": "13",
+        "categoryName": "普通机器设备；电气设备；视听数码设备；半导体、芯片等产品",
+        "packageType": "010",
+        "serialNo": 2,
+        "itemContext": "",
+        "itemDetailName": "电池、电池组",
+        "name": "222",
+        "category": "16",
+        "mark": "2"
+      },
+      {
+        "quantity": 3.00000000,
+        "packageTypeName": "纸袋",
+        "quantityUnitName": "包",
+        "itemDetail": "105",
+        "quantityUnit": "6",
+        "categoryName": "杂项制品",
+        "packageType": "011",
+        "serialNo": 3,
+        "itemContext": "",
+        "itemDetailName": "其他杂项制品",
+        "name": "333",
+        "category": "20",
+        "mark": "3"
+      }
+    ],
+    "carNum": 0,
+    "trafficToolName": "",
+    "planeType": "",
+    "way": "08",
+    "flightNo": "",
+    "billCurrency": "",
+    "endSiteName": "中国",
+    "middleSiteCode": "ALLR3_A",
+    "originalCount": 0,
+    "startSiteDetail": "111",
+    "startSiteName": "中国",
+    "cargoShipRspList": [
+      {
+        "linerTransFlag": true,
+        "shipAge": 0,
+        "createYear": "",
+        "callSign": "",
+        "serialNo": 1,
+        "areaCode": "",
+        "totalTonnage": 0E-8,
+        "name": "",
+        "shipType": "",
+        "clSoc": ""
+      }
+    ],
+    "creditNo": "",
+    "claimAgentDetail": "",
+    "startDate": "2023-02-21"
+  },
+  "isPrintPremium": 0,
+  "historyClaimRecord": "",
+  "reinsInfoRsp": {
+    "reinstrialViewInfoRsps": [
+      {
+        "amount": 84141.0,
+        "premium": 4295.95,
+        "dangerDesc": "2023协议成数分保",
+        "dangerNo": 1,
+        "shareRate": 10.0
+      },
+      {
+        "amount": 757269.0,
+        "premium": 38663.58,
+        "dangerDesc": "自留",
+        "dangerNo": 1,
+        "shareRate": 90.0
+      }
+    ],
+    "dangerMainRsps": [
+      {
+        "amount": 841410.0,
+        "premium": 42959.53,
+        "dangerDesc": "危险单位描述",
+        "dangerNo": 1,
+        "dangerShare": 100.0,
+        "addressName": "危险单位地址",
+        "currency": "CNY",
+        "policyNo": "20202A32010123000091",
+        "retentionValue": 8000000.0,
+        "itemKindDesc": "其他"
+      }
+    ],
+    "reinsFlag": "1"
+  },
+  "specialClauseList": [
+    {
+      "clauseCode": "TY0001",
+      "specialChangeFlag": "",
+      "title": "包装与积载",
+      "content": "对于由于货物包装不符合国家安全运输规定或者货物积载不当而引起的任何货物的损失和费用，保险人不承担赔偿责任。",
+      "serialNo": 3
+    },
+    {
+      "clauseCode": "TY0005",
+      "specialChangeFlag": "",
+      "title": "锈损除外",
+      "content": "任何原因导致的裸装金属材料及制品的锈损、刮擦和变形损失，均不属于保险责任。",
+      "serialNo": 2
+    },
+    {
+      "clauseCode": "TY0009",
+      "specialChangeFlag": "",
+      "title": "包装与积载(温差损失除外)",
+      "content": "在运输过程期间，由于温度和湿度的变化造成被保险货物的任何损失，保险人不承担赔偿责任。",
+      "serialNo": 1
+    }
+  ],
+  "businessOwnershipRsp": {
+    "teamName": "江苏南京中支江宁支公司直销业务三部",
+    "salesmanName": "刘晓薇",
+    "approveCode": "232000072",
+    "organizationName": "江苏分公司",
+    "agentCode": "",
+    "businessNatureName": "直接业务",
+    "salesmanCode": "200000075",
+    "teamCode": "2320101611",
+    "businessNature": "0",
+    "organizationCode": "2320000000",
+    "agreementNo": "",
+    "networkCode": "",
+    "teamTypeName": "直销",
+    "approveName": "李燕",
+    "operateName": "李燕",
+    "teamType": "10",
+    "operateCode": "232000072"
+  },
+  "invokeSystem": "PROP",
+  "endMinute": 0,
+  "insuredPrintContent": "",
+  "isRenewal": 0,
+  "classCode": "02",
+  "subProductCode": "PD-000695",
+  "policyPremiumRsp": {
+    "amount": 841410.00,
+    "originalPremium": 42959.53,
+    "priceMethod": "",
+    "payNoTaxPremium": 40527.86,
+    "dutyRate": 0E-8,
+    "estimateContractPremium": 0.00,
+    "currencyExchangeRate": 1.00000000,
+    "payAmount": 841410.00,
+    "premium": 42959.53,
+    "currencyName": "人民币",
+    "originalAmount": 841410.00,
+    "originalCurrencyName": "人民币",
+    "payPremium": 42959.53,
+    "payCurrencyExchangeRate": 1.00000000,
+    "estimateAmount": 0.00,
+    "payCurrency": "CNY",
+    "currency": "CNY",
+    "originalCurrency": "CNY",
+    "noTaxPremium": 40527.86,
+    "originalNoTaxPremium": 40527.86
+  },
+  "planCode": "001-01",
+  "endHour": 24,
+  "productCode": "PK-071866",
+  "policyExpenseList": [
+    {
+      "fee": 4052.79,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "4",
+      "feeRate": 0.1000000000000
+    },
+    {
+      "fee": 0.00,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "6",
+      "feeRate": 0E-13
+    },
+    {
+      "fee": 4052.79,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "2",
+      "feeRate": 0.1000000000000
+    },
+    {
+      "fee": 12158.37,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "1",
+      "feeRate": 0.3000000000000
+    },
+    {
+      "fee": 0.00,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "C1",
+      "feeRate": 0E-13
+    },
+    {
+      "fee": 4052.79,
+      "currency": "CNY",
+      "taxFee": 0.00,
+      "type": "S1",
+      "feeRate": 0.1000000000000
+    }
+  ],
+  "startHour": 0,
+  "totalDiscountValue": 0E-8,
+  "holderRsp": {
+    "person": {
+      "country": "CHN",
+      "degreeCode": "",
+      "nation": "",
+      "townCode": "",
+      "companyName": "",
+      "postalCode": "",
+      "identifyValidFlag": 1,
+      "yearlySalary": 0.00,
+      "monthlySalary": 0.00,
+      "sexName": "男",
+      "identifyValidFlagName": "是",
+      "fax": "",
+      "socialInsuranceNo": "",
+      "socialInsuranceType": "",
+      "occupationCode1": "A12",
+      "occupationCode2": "A1203",
+      "telephone": "132435466",
+      "occupationCode3": "A1203001",
+      "certificateNo": "362301199908020034",
+      "residentCity": "",
+      "mobilePhone": "132435466",
+      "name": "0202险种测试",
+      "countryName": "中国",
+      "position": "",
+      "provinceName": "浙江省",
+      "householdType": "",
+      "certificateType": "01",
+      "schoolCode": "",
+      "birthday": "1999-08-02",
+      "cityCode": "330300",
+      "educationCode": "",
+      "creditLevel": "",
+      "cityName": "温州市",
+      "marriage": "0",
+      "email": "",
+      "countyName": "鹿城区",
+      "antiMoneyLaunderingLevel": {
+        "customerRiskLevel": 4,
+        "customerRiskLevelName": "低",
+        "classifyCriterionList": [
+          "2",
+          "1"
+        ]
+      },
+      "provinceCode": "330000",
+      "sex": "1",
+      "certificateTypeName": "身份证",
+      "countyCode": "330302",
+      "companyAddress": "",
+      "occupationName3": "校对员",
+      "detailAddress": "哭成去",
+      "occupationName2": "校对员",
+      "endTime": "9999-01-01",
+      "occupationName1": "新闻出版广告业人员"
+    },
+    "customerId": "2a968a169f1e48b89f5a10151a481c79",
+    "type": 1,
+    "serialNo": 1
+  },
+  "importFileRspList": [],
+  "claimLimitRspList": [],
+  "startMinute": 0,
+  "inquiryNo": ""
+}
