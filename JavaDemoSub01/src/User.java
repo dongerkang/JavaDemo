@@ -6,6 +6,7 @@
 public class User {
     private String name;
     private int age;
+    // 邮箱
     private String email;
     private String address;
     private String hobby;
