@@ -1,0 +1,184 @@
+{
+  "electronicBusinessInfo": {
+    "businessInfo": {
+      "mainDeductibleCondition": "",
+      "underwriterSchema": {
+        "comAddress": "江苏省南京市江宁区东山街道园中路9号四楼",
+        "servicePhone": "02587135200",
+        "postCode": "211100",
+        "comName": "南京市江宁支公司",
+        "signDate": "2023-02-21"
+      },
+      "visaSerialNo": "45465465",
+      "engageTitle": "特别约定：",
+      "fee": {
+        "currencyC": "CNY EIGHT HUNDRED AND FORTY ONE THOUSAND FOUR HUNDRED AND TEN ONLY",
+        "amount": "841410.00",
+        "currency": "CNY 841410.00"
+      },
+      "addlDeductibleCondition": "",
+      "busType": "P",
+      "cargo": {
+        "conveyance": "",
+        "transRange": "",
+        "invoiceNo": "",
+        "plusRate": "0.00",
+        "isRenewal": "0",
+        "voyageNo": "",
+        "targetContent": "",
+        "blName": "",
+        "claimSite": "",
+        "renewalPolicyNo": "",
+        "preserveInfo": "",
+        "carNum": "0",
+        "trafficToolName": "",
+        "shipTypeCode": "",
+        "viaSiteName": "中国22",
+        "cargoShips": [
+          {
+            "makeYearMonth": "",
+            "shipCName": "",
+            "tonCount": "0.00",
+            "shipIMONo": ""
+          }
+        ],
+        "checkAgent": "",
+        "billCurrency": " 0.00",
+        "endSiteName": "中国333",
+        "departDate": "2023-02-21",
+        "originalCount": "0",
+        "startSiteName": "中国111"
+      },
+      "plan": {
+        "planFee": "42959.53",
+        "planFeeC": "",
+        "serialNo": "1"
+      },
+      "holderList": [
+        {
+          "birthday": "1999-08-02",
+          "logisticsIncome": "0.00",
+          "postAddress": "哭成去",
+          "identifyType": "01",
+          "phoneNumber": "132435466",
+          "identifyNumber": "362301199908020034",
+          "businessSort": "新闻出版广告业人员",
+          "postCode": "",
+          "insuredAddress": "浙江省温州市鹿城区哭成去",
+          "insuredName": "0202险种测试",
+          "email": ""
+        }
+      ],
+      "itemKindList": [
+        {
+          "insurance": "公路货物运输保险附加盗窃、抢劫保险",
+          "modeName": "盘卷",
+          "itemName": "加工后的蔬菜、水果的制品、罐头",
+          "premium": "CNY 34545.43",
+          "rate": "10.00",
+          "mainRiskFlag": "2",
+          "currency": "CNY",
+          "amount": "CNY 3454543.00",
+          "quantity": "1.00羽",
+          "deductible": "0.00"
+        },
+        {
+          "insurance": "国内水路、陆路货物运输保险条款---基本险",
+          "modeName": "塑料袋",
+          "itemName": "电池、电池组",
+          "premium": "CNY 546.56",
+          "rate": "10.00",
+          "mainRiskFlag": "1",
+          "currency": "CNY",
+          "amount": "CNY 54656.00",
+          "quantity": "2.00头",
+          "deductible": "0.00"
+        },
+        {
+          "insurance": "邮包一切险",
+          "modeName": "纸袋",
+          "itemName": "其他杂项制品",
+          "premium": "CNY 7867.54",
+          "rate": "10.00",
+          "mainRiskFlag": "1",
+          "currency": "CNY",
+          "amount": "CNY 786754.00",
+          "quantity": "3.00包",
+          "deductible": "0.00"
+        }
+      ],
+      "insuredList": [
+        {
+          "birthday": "1999-08-02",
+          "phoneNumber": "132435466",
+          "identifyNumber": "362301199908020034",
+          "businessSort": "新闻出版广告业人员",
+          "postAddress": "哭成去",
+          "postCode": "",
+          "insuredAddress": "浙江省温州市鹿城区哭成去",
+          "identifyType": "01",
+          "insuredName": "0202险种测试",
+          "email": ""
+        }
+      ],
+      "business": {
+        "agentCode": "",
+        "salesCode": "200000075",
+        "salesPerson": "刘晓薇"
+      },
+      "deductibleAmount": "CNY 0.00",
+      "itemCargo": {
+        "quantity": "1.00羽\n2.00头\n3.00包\n",
+        "claimSite": "",
+        "kindExpression": "",
+        "itemDescription": "111  盘卷\n222  塑料袋\n333  纸袋\n",
+        "marks": "1111"
+      },
+      "proposalNo": "10202A32010123000091",
+      "engage": "\n对于由于货物包装不符合国家安全运输规定或者货物积载不当而引起的任何货物的损失和费用，保险人\n不承担赔偿责任。\n任何原因导致的裸装金属材料及制品的锈损、刮擦和变形损失，均不属于保险责任。\n在运输过程期间，由于温度和湿度的变化造成被保险货物的任何损失，保险人不承担赔偿责任。",
+      "mainSchema": {
+        "posOrderNo": "DPO2023020000005180",
+        "handler1Name": "刘晓薇",
+        "approveCode": "200000077",
+        "judicalScope": "中华人民共和国管辖(港澳台除外)",
+        "startMonth": "2",
+        "agentCode": "",
+        "handlerName": "200000075",
+        "language": "C",
+        "underWriteName": "郭锐",
+        "signDate": "2023-02-21",
+        "endYear": "2023",
+        "approveName": "郭锐",
+        "startDay": "21",
+        "startYear": "2023",
+        "riskCode": "0202",
+        "businessNature": "直接业务",
+        "inputDate": "2023-02-20",
+        "pnpDate": "2023-02-20T15:24",
+        "endMonth": "4",
+        "contractNo": "",
+        "operatorName": "李燕",
+        "sumAmount": "841410.00",
+        "businessNo": "20202A32010123000091",
+        "endDay": "6",
+        "endMinute": "0",
+        "mobile": "15512365478",
+        "sumPremiumC": "肆万贰仟玖佰伍拾玖圆伍角叁分",
+        "autoTransRenewFlag": "1",
+        "sumPremium": "42959.53",
+        "endHour": "24",
+        "payTimes": "1",
+        "agreementNo": "",
+        "startHour": "0",
+        "handler1Code": "200000075",
+        "businessType": "1",
+        "startMinute": "0",
+        "payDate": "2023-04-05"
+      },
+      "solvencyQuarter": "偿付能力信息披露：我司最近季度的综合偿付能力充足率和风险综合评级结果向您告知如下：\n 1、我公司2022年4季度综合偿付能力充足率：310.6%, 已达到政府监管要求。\n 2、我公司2022年4季度核心偿付能力充足率：310.6%, 已达到政府监管要求。\n 3、我公司2022年4季度风险综合评级：A级。",
+      "businessType": "POLICY"
+    }
+  },
+  "documentType": "0202-110015-BDTD-FCZT",
+  "fileId": "19a7f311e0eb43d0a872960d35b9159d"
+}
